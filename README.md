@@ -9,3 +9,4 @@ For example, here are screenshots of how I use it in OpenCode and Claude Code.
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+Then, perform a code review based on the AI's response to identify any omissions and optimize some front-end details.
