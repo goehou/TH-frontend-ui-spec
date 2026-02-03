@@ -6,7 +6,7 @@ After downloading the file, copy the TH-frontend-ui-spec file to C:\Users\{Your 
 Then, use /skill to select /TH_frontend-ui-spec, and specify a page or project to apply it to
 
 For example, here are screenshots of how I use it in OpenCode and Claude Code.
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](asset/image.png)
+![alt text](asset/image-1.png)
 
 Then, perform a code review based on the AI's response to identify any omissions and optimize some front-end details.
